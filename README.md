@@ -5,8 +5,8 @@ An end-to-end Machine Learning application that predicts international football 
 ---
 
 ## 🔗 Live Demo & Links
-* 🚀 **Interactive Streamlit App:** [Click Here to View Live App](https://football-prediction-a.streamlit.app)
-* 📁 **GitHub Repository:** [https://github.com/ahmedhosary2020ahmed-sketch/Football_Prediction_Prediction](https://github.com/ahmedhosary2020ahmed-sketch/Football_Prediction_Prediction)
+* 🚀 **Interactive Streamlit App:** [Click Here to View Live App](https://footballprediction-ahmed.streamlit.app)
+* 📁 **GitHub Repository:** https://github.com/ahmedhosary2020ahmed-sketch/Football_Prediction
 
 ---
 
