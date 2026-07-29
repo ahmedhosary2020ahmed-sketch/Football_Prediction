@@ -4,10 +4,10 @@ An end-to-end Machine Learning application that predicts international football 
 
 ---
 
+
 ## 🔗 Live Demo & Links
-* 🚀 **Interactive Streamlit App:** [Click Here to View Live App](https://football-prediction-a.streamlit.app)
+* 🚀 **Interactive Streamlit App:** [Click Here to View Live App](https://football-prediction-app.streamlit.app/)
 * 📁 **GitHub Repository:** https://github.com/ahmedhosary2020ahmed-sketch/Football_Prediction
----
 
 ## 📌 1. Problem Definition & Objective
 The objective of this project is to build and deploy a machine learning model capable of predicting the outcome of an international football match. By analyzing historical match metadata and team metrics, the model evaluates whether a match will result in a **Home Win**, **Away Win**, or **Draw**.
